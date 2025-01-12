@@ -2,4 +2,6 @@
 
 App that support for placing a call by using platform-specific APIs available in Android.
 
-<img content="center" src="./GitHubImage/Phoneword.jpg">
+<div content="center">
+<img src="./GitHubImage/Phoneword.jpg" height="50%">
+</div>
